@@ -1,0 +1,2 @@
+reg = {'almaty' : ['almaty', 'jarkent', 'kapshagay', 'saryozek', 'taldykorgan', 'usharal'], 'atyrau': ['atyrau', 'kulsary', 'makat', 'miyaly']}
+times = {0 : 'Fajr', 1: 'Sunrise', 2: 'Dhuhr', 3: 'Asr', 4: 'Maghrib', 5 : 'Isha'}
